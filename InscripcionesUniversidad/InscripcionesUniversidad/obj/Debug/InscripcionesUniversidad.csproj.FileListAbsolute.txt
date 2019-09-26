@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\InscripcionesUniversidad\InscripcionesUniversidad\bin\Debug\InscripcionesUniversidad.exe.config
+C:\Users\Lenovo\Desktop\InscripcionesUniversidad\InscripcionesUniversidad\bin\Debug\InscripcionesUniversidad.exe
+C:\Users\Lenovo\Desktop\InscripcionesUniversidad\InscripcionesUniversidad\bin\Debug\InscripcionesUniversidad.pdb
+C:\Users\Lenovo\Desktop\InscripcionesUniversidad\InscripcionesUniversidad\obj\Debug\InscripcionesUniversidad.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\InscripcionesUniversidad\InscripcionesUniversidad\obj\Debug\InscripcionesUniversidad.Form1.resources
+C:\Users\Lenovo\Desktop\InscripcionesUniversidad\InscripcionesUniversidad\obj\Debug\InscripcionesUniversidad.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\InscripcionesUniversidad\InscripcionesUniversidad\obj\Debug\InscripcionesUniversidad.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\InscripcionesUniversidad\InscripcionesUniversidad\obj\Debug\InscripcionesUniversidad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\InscripcionesUniversidad\InscripcionesUniversidad\obj\Debug\InscripcionesUniversidad.exe
+C:\Users\Lenovo\Desktop\InscripcionesUniversidad\InscripcionesUniversidad\obj\Debug\InscripcionesUniversidad.pdb
